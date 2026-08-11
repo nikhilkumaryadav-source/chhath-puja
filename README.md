@@ -1,2 +1,2 @@
 # chhath-puja
-Music player for fu nostalgic chhath puja songs
+Music player for full nostalgic chhath puja songs
